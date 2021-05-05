@@ -34,8 +34,17 @@ ground1=new Ground(1200,650,500,20);
  block15=new Block(1050,530);
  block16=new Block(1300,530);
  block17=new Block(1350,530);
- 
-polygon1=new Polygon();
+ block18=new Block(1250,460);
+ block19=new Block(1300,460);
+ block20=new Block(1200,460);
+ block21=new Block(1150,460);
+// block22=new Block(1050,460);
+ block23=new Block(1100,460);
+ block24=new Block(1150,390);
+ block25=new Block(1250,390);
+ block26=new Block(1200,390);
+ block27=new Block(1200,320)
+ polygon1=new Polygon();
 
 //ground2=new Ground(10,630,1500,20);
 
@@ -69,6 +78,16 @@ block13.display();
 block15.display();
 block16.display();
 block17.display();
+block18.display();
+block19.display();
+block20.display();
+block21.display();
+//block22.display();
+block23.display();
+block24.display();
+block25.display();
+block26.display();
+block27.display();
 
 polygon1.display();
 
